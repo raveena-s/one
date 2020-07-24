@@ -1,1 +1,1 @@
-SampleGit
+Sample git project
